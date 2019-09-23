@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="97d70b45-cafb-442f-ac1f-267f161f0d60" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/only paul is real/only paul is real/in.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1002 - Country Roads/1002 - Country Roads/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1002 - Country Roads/1002 - Country Roads/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1007 - Mathematically Hard/1007 - Mathematically Hard/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1007 - Mathematically Hard/1007 - Mathematically Hard/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1009 - Back to Underworld/1009 - Back to Underworld/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1009 - Back to Underworld/1009 - Back to Underworld/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1014 - Ifter Party/1014 - Ifter Party/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1014 - Ifter Party/1014 - Ifter Party/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1028 - Trailing Zeroes (I)/1028 - Trailing Zeroes (I)/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1028 - Trailing Zeroes (I)/1028 - Trailing Zeroes (I)/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1035 - Intelligent Factorial Factorization/1035 - Intelligent Factorial Factorization/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1035 - Intelligent Factorial Factorization/1035 - Intelligent Factorial Factorization/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1054 - Efficient Pseudo Code/1054 - Efficient Pseudo Code/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1054 - Efficient Pseudo Code/1054 - Efficient Pseudo Code/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1067 - Combinations/1067 - Combinations/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1067 - Combinations/1067 - Combinations/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1077 - How Many Points?/1077 - How Many Points?/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1077 - How Many Points?/1077 - How Many Points?/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1090 - Trailing Zeroes (II)/1090 - Trailing Zeroes (II)/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1090 - Trailing Zeroes (II)/1090 - Trailing Zeroes (II)/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1094 - Farthest Nodes in a Tree/1094 - Farthest Nodes in a Tree/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1094 - Farthest Nodes in a Tree/1094 - Farthest Nodes in a Tree/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1098 - A New Function/1098 - A New Function/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1098 - A New Function/1098 - A New Function/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1111 - Best Picnic Ever/1111 - Best Picnic Ever/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1111 - Best Picnic Ever/1111 - Best Picnic Ever/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1141 - Number Transformation/1141 - Number Transformation/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1141 - Number Transformation/1141 - Number Transformation/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1166 - Old Sorting/1166 - Old Sorting/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1166 - Old Sorting/1166 - Old Sorting/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1197 - Help Hanzo/1197 - Help Hanzo/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1197 - Help Hanzo/1197 - Help Hanzo/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1215 - Finding LCM/1215 - Finding LCM/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1215 - Finding LCM/1215 - Finding LCM/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1238 - Power Puff Girls/1238 - Power Puff Girls/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1238 - Power Puff Girls/1238 - Power Puff Girls/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1257 - Farthest Nodes in a Tree (II)/1257 - Farthest Nodes in a Tree (II)/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1257 - Farthest Nodes in a Tree (II)/1257 - Farthest Nodes in a Tree (II)/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1259 - Goldbach`s Conjecture/1259 - Goldbach`s Conjecture/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1259 - Goldbach`s Conjecture/1259 - Goldbach`s Conjecture/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1263 - Equalizing Money/1263 - Equalizing Money/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1263 - Equalizing Money/1263 - Equalizing Money/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1297 - Largest Box/1297 - Largest Box/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1297 - Largest Box/1297 - Largest Box/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1337 - The Crystal Maze/1337 - The Crystal Maze/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1337 - The Crystal Maze/1337 - The Crystal Maze/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1396 - Palindromic Numbers (III)/1396 - Palindromic Numbers (III)/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1396 - Palindromic Numbers (III)/1396 - Palindromic Numbers (III)/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A. Almost Prime/A. Almost Prime/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/A. Almost Prime/A. Almost Prime/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A. Important Exam/A. Important Exam/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/A. Important Exam/A. Important Exam/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B - Asian Tiger/B - Asian Tiger/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/B - Asian Tiger/B - Asian Tiger/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B. Welfare State/B. Welfare State/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/B. Welfare State/B. Welfare State/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bicoloring/Bicoloring/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Bicoloring/Bicoloring/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Breadth First Search: Shortest Reach/Breadth First Search: Shortest Reach/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Breadth First Search: Shortest Reach/Breadth First Search: Shortest Reach/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C - ID Codes/C - ID Codes/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C - ID Codes/C - ID Codes/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C. Maximum Median/C. Maximum Median/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C. Maximum Median/C. Maximum Median/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D. Treasure Hunting/D. Treasure Hunting/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/D. Treasure Hunting/D. Treasure Hunting/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadet/cadet/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/cadet/cadet/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadet2/cadet2/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/cadet2/cadet2/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cf  Lost Numbers/cf  Lost Numbers/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cf  Lost Numbers/cf  Lost Numbers/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contest-d/contest-d/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/contest-d/contest-d/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contest/contest/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/contest/contest/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/counting/counting/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/counting/counting/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cute_cadet/cute_cadet/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/cute_cadet/cute_cadet/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ip-checking-lightoj/ip-checking-lightoj/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ip-checking-lightoj/ip-checking-lightoj/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightoj-ekka-dokka/lightoj-ekka-dokka/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lightoj-ekka-dokka/lightoj-ekka-dokka/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightoj-k-sat/lightoj-k-sat.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/lightoj-k-sat/lightoj-k-sat.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightoj-k-sat/lightoj-k-sat/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lightoj-k-sat/lightoj-k-sat/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightoj-lift/lightoj-lift/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lightoj-lift/lightoj-lift/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightoj-setu/lightoj-setu/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lightoj-setu/lightoj-setu/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ligjtoj-how-cow/ligjtoj-how-cow/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ligjtoj-how-cow/ligjtoj-how-cow/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loj-1307/loj-1307/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/loj-1307/loj-1307/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loj-arc/loj-arc/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/loj-arc/loj-arc/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loj-conteiner/loj-conteiner/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/loj-conteiner/loj-conteiner/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loj-football/loj-football/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/loj-football/loj-football/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loj-lcm-n/loj-lcm-n/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/loj-lcm-n/loj-lcm-n/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loj-seg/loj-seg/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/loj-seg/loj-seg/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loj-segment/loj-segment/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/loj-segment/loj-segment/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loj.1078 - Integer Divisibility/loj.1078 - Integer Divisibility/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/loj.1078 - Integer Divisibility/loj.1078 - Integer Divisibility/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lolsfsdf/lolsfsdf/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lolsfsdf/lolsfsdf/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lpoj factorial/lpoj factorial/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lpoj factorial/lpoj factorial/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/only paul is real/only paul is real.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/only paul is real/only paul is real.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/only paul is real/only paul is real/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/only paul is real/only paul is real/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templete/templete/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/templete/templete/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uva Sum of Consecutive Prime Numbers/uva Sum of Consecutive Prime Numbers/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/uva Sum of Consecutive Prime Numbers/uva Sum of Consecutive Prime Numbers/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uva y3k/uva y3k/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/uva y3k/uva y3k/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1127 - Funny Knapsack/v1127 - Funny Knapsack/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/v1127 - Funny Knapsack/v1127 - Funny Knapsack/main.cpp" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/1002 - Country Roads" />
+  </component>
+  <component name="ProjectId" id="1OtjCoIZCSJXH13a82yaFNC58Ta" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97d70b45-cafb-442f-ac1f-267f161f0d60" name="Default Changelist" comment="" />
+      <created>1564803661500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564803661500</updated>
+      <workItem from="1564803664342" duration="68000" />
+      <workItem from="1565079144943" duration="90000" />
+      <workItem from="1565079379506" duration="195000" />
+      <workItem from="1565617000030" duration="79000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
